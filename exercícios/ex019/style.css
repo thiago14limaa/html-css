@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+    background-color: #7cd4cf;
+}
+
+h1{
+    color: #2c524f;
+
+}
+
+h2{
+    color: #236b66;
+}
+
+h1#principal{
+    text-align: center;
+    font: italic bolder 2.5em 'Arial', sans-serif;
+}
+
+h2.avancado{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+}
