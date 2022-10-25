@@ -85,3 +85,20 @@ section.imagemb > p{
     padding-left: 5px;
     margin-left: 30px;
 }
+
+footer > p{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+footer > p > a{
+    text-decoration: none;
+    color: white;
+}
+
+footer > p > a:hover{
+    text-decoration: underline;
+    transition-duration: 0.3s;
+}
