@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+*{
+    padding: 10px;
+    margin: 10px;
+}
+
+menu{
+    display: none;
+}
+
+html{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5em;
+    line-height: 1.5em;
+}
+
+article::after{
+    content: 'Impresso através do site www.thiagolima.com';
+}
